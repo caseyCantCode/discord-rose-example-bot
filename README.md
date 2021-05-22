@@ -1,0 +1,1 @@
+# discord-rose-example-bot
